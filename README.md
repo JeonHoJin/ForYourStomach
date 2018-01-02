@@ -11,8 +11,7 @@ Right Mouse Click: Teleport
 Q, E: Changing bullet
 M: Pause menu
 
-> 1. Bullets
-> ----------
+> ###### 1. Bullets
 >>|Name|Shape|Color|Size|Damage|Cool Down|Speed|Ammo|Etc|
 >>|----|-----|-----|----|------|---------|-----|----|---|
 >>|Binonic Gun|Sphere|White|1|15|1|1|∞| |
