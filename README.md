@@ -11,7 +11,7 @@ Right Mouse Click: Teleport
 Q, E: Changing bullet
 M: Pause menu
 
-> ###### 1. Bullets
+> ## 1. Bullets
 >>|Name|Shape|Color|Size|Damage|Cool Down|Speed|Ammo|Etc|
 >>|----|-----|-----|----|------|---------|-----|----|---|
 >>|Binonic Gun|Sphere|White|1|15|1|1|∞| |
@@ -23,10 +23,8 @@ M: Pause menu
 >>|Bionic Shot GUn|3D Oval|Black|1|40|0.5|1|20|Triple shot Penetrable|
 >>|Bionic Grenade Launcher|3D Oval|Black|3|120|0.25|0.25|10|Explosion|
 
-> 2. Boss Mode
-> ------------
+> ## 2. Boss Mode
 >> Kill germs and boss.
 
-> 3. Infinite Mode
-----------------
+> ## 3. Infinite Mode
 >> Kill all germs who constantly spawned.
