@@ -15,7 +15,7 @@ Save your Stomach. You can use various bullet and try to kill germs.
 >>|Bionic Vampire Gun|Sphere|Red|1|10|0.5|1|40|Steal HP (5)|
 >>|Bionic Mini Gun|Cube|White|0.5|10|3|2|150| |
 >>|Bionic Vampire Sniper Rifle|Cube|Red|1.5|20|0.5|1|40|Steal HP (5)|
->>|Bionic Shot GUn|3D Oval|Black|1|40|0.5|1|20|Triple shot\nPenetrable|
+>>|Bionic Shot GUn|3D Oval|Black|1|40|0.5|1|20|Triple shot Penetrable|
 >>|Bionic Grenade Launcher|3D Oval|Black|3|120|0.25|0.25|10|Explosion|
 > 2. Boss Mode
 > 3. Infinite Mode
