@@ -29,5 +29,5 @@ M: Pause menu
 >> Kill germs and boss.
 
 > 3. Infinite Mode
-> ----------------
+----------------
 >> Kill all germs who constantly spawned.
